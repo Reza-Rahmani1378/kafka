@@ -1,7 +1,7 @@
 # Kafka
 A personal practice to cover Kafka  Based on [this](https://www.amazon.com/Kafka-Definitive-Real-Time-Stream-Processing/dp/1491936169) book
 
-![image](https://www.amazon.fr/Kafka-Definitive-Real-Time-Stream-Processing/dp/1491936169)
+![image](https://m.media-amazon.com/images/P/1491936169.01._SCLZZZZZZZ_SX500_.jpg)                                                                                  
 
 ## Table of Contents
 1. [Meet Kafka](#meet_kafka)
